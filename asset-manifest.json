@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/imgonnamorb/static/css/main.073c9b0a.css",
+    "main.js": "/imgonnamorb/static/js/main.e72c0e27.js",
+    "static/js/787.20df0665.chunk.js": "/imgonnamorb/static/js/787.20df0665.chunk.js",
+    "static/media/logo.svg": "/imgonnamorb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/imgonnamorb/index.html",
+    "main.073c9b0a.css.map": "/imgonnamorb/static/css/main.073c9b0a.css.map",
+    "main.e72c0e27.js.map": "/imgonnamorb/static/js/main.e72c0e27.js.map",
+    "787.20df0665.chunk.js.map": "/imgonnamorb/static/js/787.20df0665.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e72c0e27.js"
+  ]
+}
