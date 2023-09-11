@@ -1,5 +1,5 @@
-import morb from './morb.jpg';
-import './App.css';
+import morb from "./assets/morb.jpg";
+import "./App.css";
 
 function App() {
   return (
